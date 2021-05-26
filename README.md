@@ -1,5 +1,5 @@
  ![RuchiraKavinda](my1.png)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuchiraKavinda&color=blue" alt="RuchiraKavinda" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuchiraKavinda&color=blue" alt="RuchiraKavinda" /> <a href="https://github.com/RuchiraKavinda"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a> </p>
  <p align="center"> <img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
  <center>
  <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 

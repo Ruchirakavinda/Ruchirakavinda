@@ -20,7 +20,7 @@
 </p>
 </h3>
 
-<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="akhilgkrishnan" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="akhilgkrishnan" />&nbsp;</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="akhilgkrishnan" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="akhilgkrishnan" />&nbsp;
 
 
 

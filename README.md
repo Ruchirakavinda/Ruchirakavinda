@@ -1,7 +1,7 @@
  ![RuchiraKavinda](my1.png)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuchiraKavinda&color=blue" alt="RuchiraKavinda" /> </p>
+ <p align="center"> <img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
  <center>
- <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
  <h3 align="center">I'm Ruchira kavinda. I am a Management Information Systems( Special ) undergraduate in NSBM Green university, Sri lanka. And I'm intersted in Full Stack Development, UI / UX & Graphic Designing.</h3>
 

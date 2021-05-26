@@ -4,7 +4,7 @@
  <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
  <h3 align="center">I'm Ruchira kavinda. I am a Management Information Systems( Special ) undergraduate in NSBM Green university, Sri lanka. And I'm intersted in Full Stack Development, UI / UX & Graphic Designing.</h3>
 
-<p>
+<p align="center">
 
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
@@ -16,3 +16,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="RuchiraKavinda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="RuchiraKavinda" /></p>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wgm1q8x75vlayn5du8k9vn0pu?si=632c205813e94f3e)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>

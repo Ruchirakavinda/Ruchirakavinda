@@ -1,4 +1,5 @@
  ![RuchiraKavinda](my1.png)<br>
+ <center>
  <p><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuchiraKavinda&color=blue" alt="RuchiraKavinda" /> </p>
  <h2>I'm Ruchira kavinda</h3>
@@ -12,3 +13,7 @@
 <a href="https://instagram.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
 <a href="https://medium.com/@akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="RuchiraKavinda" height="30" width="30" /></a>
 </p>
+</center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgkrishnan&show_icons=true" alt="akhilgkrishnan" /></p>

@@ -20,9 +20,8 @@
 </p>
 </h3>
 <br><br>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="RuchiraKavinda" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="RuchiraKavinda" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="RuchiraKavinda" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="RuchiraKavinda" />
+</p>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 

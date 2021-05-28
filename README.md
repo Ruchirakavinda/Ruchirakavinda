@@ -46,10 +46,10 @@
 
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!--img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wgm1q8x75vlayn5du8k9vn0pu?si=632c205813e94f3e)
+<span>[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wgm1q8x75vlayn5du8k9vn0pu?si=632c205813e94f3e)<span-->
 
 ---

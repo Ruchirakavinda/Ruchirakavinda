@@ -50,6 +50,6 @@
 
 ### Spotify Playing 🎧
 
-<span>[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wgm1q8x75vlayn5du8k9vn0pu?si=632c205813e94f3e)<span-->
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/wgm1q8x75vlayn5du8k9vn0pu?si=632c205813e94f3e)
 
 ---

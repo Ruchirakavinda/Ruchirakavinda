@@ -45,6 +45,13 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuchiraKavinda&show_icons=true&locale=en&layout=compact" alt="RuchiraKavinda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true&locale=en" alt="dulyana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraKavinda&" alt="dulyana" /></p>
+
+
 
 <!--img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 

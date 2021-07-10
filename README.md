@@ -31,7 +31,7 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-231572B6?style=flat-square&logo=flutter&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=flutter&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -45,7 +45,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="akhilgkrishnan" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="akhilgkrishnan" />&nbsp;
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=RuchiraKavinda&show_icons=true" alt="akhilgkrishnan" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraKavinda&layout=compact&hide=html" alt="akhilgkrishnan" />&nbsp;</p>
 
 
 <!--img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

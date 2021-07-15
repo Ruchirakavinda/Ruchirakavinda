@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></p> 
 
-<h3 align="center">I'm Ruchira kavinda. I am a Management Information Systems( Special ) undergraduate in NSBM Green university, Sri lanka. And I'm intersted in Full Stack Development, UI / UX & Graphic Designing.
+<h3 align="center">I'm Ruchira kavinda. I am a Management Information Systems( Special ) undergraduate at NSBM Green University, Sri Lanka. And I'm interested in Full Stack Development, UI / UX & Graphic Designing.
 <br><br>
 <p align="center">
 <a href="https://twitter.com/RuchiraKavinda2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
